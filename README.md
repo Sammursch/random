@@ -1,2 +1,2 @@
 # random
-Genera un mumerpo casual menor que 1 chequea si es mayor o menor que 0.5.
+Genera un mumero casual menor que 1 chequea si es mayor o menor que 0.5.
